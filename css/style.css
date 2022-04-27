@@ -12,6 +12,9 @@ body {
     border: solid 2px black;
     height: 100px;
 }
+section {
+    margin: 20px 0;
+}
 
 /* header */
 
