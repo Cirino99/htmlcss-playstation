@@ -6,3 +6,17 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+/* debug */
+[class*="col-"], .col {
+    background-color: blueviolet;
+    border: solid 2px black;
+    height: 100px;
+}
+
+/* header */
+
+
+/* main */
+
+
+/* footer */
