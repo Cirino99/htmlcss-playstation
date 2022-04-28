@@ -37,6 +37,14 @@ header .navbar .navbar-brand img{
     height: 45px;
     width: auto;
 }
+header .navbar .navbar-collapse .nav-item .nav-link {
+    color: black;
+}
+header .navbar .navbar-collapse .nav-item img {
+    width: 25px;
+    height: auto;
+}
+
 
 /* main */
 main {
