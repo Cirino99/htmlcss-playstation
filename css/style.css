@@ -126,5 +126,19 @@ main #nuove-uscite img {
     height: auto;
     border-radius: 10px;
 }
+    /* play4 */
+main #play4 {
+    padding: 30px 0;
+    width: 100%;
+}
+main #play4 p {
+    color: #787878;
+    font-size: 18px;
+    padding: 15px 0;
+}
+main #play4 img {
+    max-width: 100%;
+    height: auto;
+}
 
 /* footer */
