@@ -74,7 +74,8 @@ main #jumbotron .anteprima-jumbo .anteprima-jumbo-img {
 }
     /* play5 */
 main #play5 {
-    margin-top: 100px;
+    margin-top: 70px;
+    padding: 30px 0;
 }
 main #play5 .carousel-item img{
     max-width: 100%;
@@ -167,6 +168,23 @@ main #sconti-ps p {
     padding: 15px 0;
 }
 main #sconti-ps img {
+    max-width: 100%;
+    height: auto;
+}
+    /* ps now */
+main #ps-now {
+    background-color: #161c3b;
+    width: 100%;
+}
+main #ps-now .logo {
+    max-width: 60%;
+    height: auto;
+}
+main #ps-now p {
+    margin: 30px 0;
+    color: white;
+}
+main #ps-now img {
     max-width: 100%;
     height: auto;
 }
