@@ -51,9 +51,6 @@ main {
     padding-top: 105px;
 }
     /* jumbotron */
-main #jumbotron {
-    padding-bottom: 20px;
-}
 main #jumbotron .ms-carousel-item-1 {
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
@@ -75,6 +72,22 @@ main #jumbotron .anteprima-jumbo .anteprima-jumbo-img {
     object-fit: contain;
     border-radius: 20px;
 }
-
+    /* play5 */
+main #play5 {
+    margin-top: 100px;
+}
+main #play5 .carousel-item img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+main #play5 .anteprima-play5 {
+    font-size: 16px;
+}
+main #play5 .anteprima-play5 img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 
 /* footer */
