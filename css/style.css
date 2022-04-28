@@ -140,5 +140,21 @@ main #play4 img {
     max-width: 100%;
     height: auto;
 }
+    /* ps-plus */
+main #ps-plus {
+    background-color: #bebcbb;
+    width: 100%;
+}
+main #ps-plus .logo {
+    max-width: 60%;
+    height: auto;
+}
+main #ps-plus p {
+    margin: 30px 0;
+}
+main #ps-plus img {
+    max-width: 100%;
+    height: auto;
+}
 
 /* footer */
