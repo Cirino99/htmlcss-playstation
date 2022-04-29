@@ -188,5 +188,19 @@ main #ps-now img {
     max-width: 100%;
     height: auto;
 }
+    /* social */
+main #social {
+    width: 100%;
+    padding: 30px 0;
+}
+main #social img {
+    max-width: 100%;
+    height: auto;
+}
+@media screen and (min-width: 768px) {
+    main #social img {
+        max-width: 120px;
+    }
+}
 
 /* footer */
