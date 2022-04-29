@@ -35,7 +35,16 @@ header .navbar .navbar-collapse .nav-item img {
     width: 25px;
     height: auto;
 }
-
+@media screen and (min-width: 992px) {
+    header .nav-menu {
+        display: none;
+    }
+}
+@media screen and (max-width: 991px) {
+    header .nav-menu-lg {
+        display: none;
+    }
+}
 
 /* main */
 main {
