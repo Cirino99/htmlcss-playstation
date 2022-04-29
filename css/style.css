@@ -35,14 +35,24 @@ header .navbar .navbar-collapse .nav-item img {
     width: 25px;
     height: auto;
 }
+header .collapse img {
+    width: 80px;
+    height: auto;
+}
 @media screen and (min-width: 992px) {
     header .nav-menu {
         display: none;
+    }
+    header .nav-menu-lg {
+        display: flex;
     }
 }
 @media screen and (max-width: 991px) {
     header .nav-menu-lg {
         display: none;
+    }
+    header .nav-menu {
+        display: flex;
     }
 }
 
