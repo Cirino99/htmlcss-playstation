@@ -91,13 +91,16 @@ main #play5 {
     margin-top: 70px;
     padding: 30px 0;
 }
+main #play5 .text-blu {
+    color: #0072ce;
+}
 main #play5 .carousel-item img{
     max-width: 100%;
     height: auto;
     max-height: 600px;
     object-fit: contain;
 }
-main #play5 .carousel-item p {
+main #play5 p {
     color: #787878;
     font-size: 18px;
     padding: 20px 0;
@@ -141,6 +144,9 @@ main #nuove-uscite img {
     height: auto;
     border-radius: 10px;
 }
+main #nuove-uscite h5 {
+    font-size: 16px;
+}
     /* play4 */
 main #play4 {
     padding: 30px 0;
@@ -174,7 +180,7 @@ main #ps-plus img {
     /* sconti ps */
 main #sconti-ps {
     width: 100%;
-    padding: 30px 0;
+    padding: 50px 0;
 }
 main #sconti-ps p {
     color: #787878;
@@ -205,7 +211,7 @@ main #ps-now img {
     /* social */
 main #social {
     width: 100%;
-    padding: 30px 0;
+    padding: 50px 0;
 }
 main #social img {
     max-width: 100%;
