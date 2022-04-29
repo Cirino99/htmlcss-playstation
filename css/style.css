@@ -6,15 +6,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-/* debug */
-    /* [class*="col-"], .col {
-        background-color: blueviolet;
-        border: solid 2px black;
-        height: 100px;
-    } */
-/* section {
-    margin: 20px 0;
-} */
 
 /* header */
 header {
@@ -204,3 +195,34 @@ main #social img {
 }
 
 /* footer */
+footer {
+    background-color: #00439c;
+    padding: 60px 0;
+    color: white;
+}
+footer img {
+    min-width: 95px;
+    max-width: 135px;
+    height: auto;
+    margin: 20px 0;
+}
+footer #language img {
+    min-width: 0;
+    max-width: 25px;
+    height: auto;
+    margin-right: 10px;
+}
+footer p {
+    font-size: 14px;
+}
+footer p a {
+    color: white;
+}
+footer ul li {
+    list-style: none;
+    margin: 10px 0;
+}
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
